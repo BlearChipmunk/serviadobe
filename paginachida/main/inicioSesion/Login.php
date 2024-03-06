@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="es-mx">
 <head>
-    <link rel="stylesheet" href="estilo_loginn.css">
+    <link rel="stylesheet" href="./inicioSesion/estilo_login.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TecnoAgricola MX</title>
